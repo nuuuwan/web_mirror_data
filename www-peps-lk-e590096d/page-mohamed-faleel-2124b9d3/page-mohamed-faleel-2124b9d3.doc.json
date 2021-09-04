@@ -1,0 +1,2210 @@
+{
+  "tag": "body",
+  "children": [
+    {
+      "tag": "nav",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "a",
+              "children": [
+                {
+                  "tag": "img",
+                  "children": [],
+                  "attrs": {
+                    "class": [
+                      "img-fluid"
+                    ],
+                    "src": "https://www.peps.lk/wp-content/themes/pepold/img/pep-logo.png",
+                    "alt": "PEP logo"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "navbar-brand",
+                  "py-0"
+                ],
+                "href": "https://www.peps.lk"
+              }
+            },
+            {
+              "tag": "button",
+              "children": [
+                {
+                  "tag": "span",
+                  "children": [],
+                  "attrs": {
+                    "class": [
+                      "navbar-toggler-icon"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "navbar-toggler",
+                  "ml-auto"
+                ],
+                "type": "button",
+                "data-toggle": "collapse",
+                "data-target": "#navbarSupportedContent",
+                "aria-controls": "navbarSupportedContent",
+                "aria-expanded": "false",
+                "aria-label": "Toggle navigation"
+              }
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "ul",
+                  "children": [
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Home "
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "\n              Explore\n            "
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link",
+                              "dropdown-toggle"
+                            ],
+                            "href": "https://www.peps.lk/explore",
+                            "id": "navbarDropdown",
+                            "role": "button",
+                            "data-toggle": "dropdown",
+                            "aria-haspopup": "true",
+                            "aria-expanded": "false"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Heads of State"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/heads-of-state/"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Politicians"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-politicians"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Government Officials"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-government-officials"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Judicial Officers"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-judicial-officers"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Military Officers"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-military-officers"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Executives of SOEs"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-executives-of-state-owned-enterprises"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "State Owned Enterprises"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/soe"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Ministries"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/ministries/"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "All Peps"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/explore"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "dropdown-menu"
+                            ],
+                            "aria-labelledby": "navbarDropdown"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item",
+                          "dropdown"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "FAQs"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/faq"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contribute"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/contribute"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contact"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/contact"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "a",
+                      "children": [
+                        {
+                          "tag": "i",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "fas",
+                              "fa-search",
+                              "text-dark",
+                              "mt-3",
+                              "ml-2",
+                              "pt-1"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "data-toggle": "collapse",
+                        "href": "#collapseSearch",
+                        "role": "button",
+                        "aria-expanded": "false",
+                        "aria-controls": "collapseSearch"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "navbar-nav",
+                      "ml-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "collapse",
+                  "navbar-collapse"
+                ],
+                "id": "navbarSupportedContent"
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "navbar",
+          "navbar-expand-lg",
+          "navbar-light",
+          "bg-white",
+          "main-header",
+          "py-2",
+          "py-lg-0"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "form",
+                      "children": [
+                        {
+                          "tag": "input",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "form-control"
+                            ],
+                            "id": "s",
+                            "name": "s",
+                            "type": "search",
+                            "required": "required",
+                            "placeholder": "Type here to search...",
+                            "value": "",
+                            "aria-label": "Search"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "method": "get",
+                        "id": "seach-bar",
+                        "action": "https://www.peps.lk/"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-7"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "button",
+                      "children": [
+                        {
+                          "text": "Search"
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "btn",
+                          "btn-primary",
+                          "btn-block",
+                          "my-2",
+                          "my-sm-0"
+                        ],
+                        "type": "submit"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-3"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "button",
+                      "children": [
+                        {
+                          "tag": "i",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "fas",
+                              "fa-times"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "type": "button",
+                        "class": [
+                          "btn",
+                          "btn-close",
+                          "btn-secondary"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-2",
+                      "text-center"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row",
+                  "py-5"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "collapse",
+          "bg-light"
+        ],
+        "id": "collapseSearch"
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "img",
+                          "children": [],
+                          "attrs": {
+                            "width": "165",
+                            "height": "165",
+                            "src": "https://www.peps.lk/wp-content/uploads/2020/09/Mohamed-Faleel-Marjan-165x165.jpg",
+                            "class": [
+                              "attachment-img-fluid",
+                              "single",
+                              "size-img-fluid",
+                              "single",
+                              "wp-post-image"
+                            ],
+                            "alt": "",
+                            "loading": "lazy",
+                            "srcset": "https://www.peps.lk/wp-content/uploads/2020/09/Mohamed-Faleel-Marjan-165x165.jpg 165w, https://www.peps.lk/wp-content/uploads/2020/09/Mohamed-Faleel-Marjan-150x150.jpg 150w, https://www.peps.lk/wp-content/uploads/2020/09/Mohamed-Faleel-Marjan.jpg 225w",
+                            "sizes": "(max-width: 165px) 100vw, 165px"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "profile-pic"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "h1",
+                      "children": [
+                        {
+                          "text": "Mohamed Faleel Marjan "
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "h5",
+                          "bold",
+                          "mt-4",
+                          "mb-2"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "h6",
+                          "children": [
+                            {
+                              "text": "Member of Parliament (9th Parliament of Sri Lanka)"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "medium",
+                              "mb-3"
+                            ]
+                          }
+                        },
+                        {
+                          "tag": "h6",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "medium",
+                              "mb-3"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "position"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        {
+                          "text": " Connections"
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "regular",
+                          "mb-2",
+                          "medium",
+                          "text-gloomy-blue"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-6",
+                      "text-center"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "button",
+                      "children": [
+                        {
+                          "tag": "i",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "fas",
+                              "fa-share-square",
+                              "small"
+                            ]
+                          }
+                        },
+                        {
+                          "text": " Share Profile"
+                        }
+                      ],
+                      "attrs": {
+                        "type": "button",
+                        "class": [
+                          "btn",
+                          "btn-outline-dark",
+                          "btn-outline-round",
+                          "btn-inline-block",
+                          "mb-3"
+                        ],
+                        "data-toggle": "modal",
+                        "data-target": "#shareProfile"
+                      }
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "h5",
+                                      "children": [
+                                        {
+                                          "text": "Share Profile"
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "modal-title"
+                                        ],
+                                        "id": "exampleModalLabel"
+                                      }
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "children": [
+                                            {
+                                              "text": "\u00d7"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "aria-hidden": "true"
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "type": "button",
+                                        "class": [
+                                          "close"
+                                        ],
+                                        "data-dismiss": "modal",
+                                        "aria-label": "Close"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "modal-header"
+                                    ]
+                                  }
+                                },
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "ul",
+                                      "children": [
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "tag": "i",
+                                                  "children": [],
+                                                  "attrs": {
+                                                    "class": [
+                                                      "fab",
+                                                      "fa-facebook-f"
+                                                    ]
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "https://www.facebook.com/sharer.php?u=https://www.peps.lk/mohamed-faleel-marjan/",
+                                                "target": "_blank",
+                                                "title": "Share on facebook"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "d-inline-block"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "tag": "i",
+                                                  "children": [],
+                                                  "attrs": {
+                                                    "class": [
+                                                      "fab",
+                                                      "fa-twitter"
+                                                    ]
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "http://twitter.com/share?text=Mohamed Faleel Marjan&url=https://www.peps.lk/mohamed-faleel-marjan/",
+                                                "target": "_blank",
+                                                "title": "Share on twitter"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "d-inline-block"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "tag": "i",
+                                                  "children": [],
+                                                  "attrs": {
+                                                    "class": [
+                                                      "fab",
+                                                      "fa-whatsapp"
+                                                    ]
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "https://wa.me/?text=https://www.peps.lk/mohamed-faleel-marjan/",
+                                                "target": "_blank",
+                                                "title": "Share on whatsapp"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "d-inline-block",
+                                              "whatsapp-desktop-btn"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "tag": "i",
+                                                  "children": [],
+                                                  "attrs": {
+                                                    "class": [
+                                                      "fab",
+                                                      "fa-whatsapp"
+                                                    ]
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "whatsapp://send?text=https://www.peps.lk/mohamed-faleel-marjan/",
+                                                "target": "_blank",
+                                                "title": "Share on whatsapp"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "d-inline-block",
+                                              "d-lg-none"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "tag": "i",
+                                                  "children": [],
+                                                  "attrs": {
+                                                    "class": [
+                                                      "fas",
+                                                      "fa-envelope"
+                                                    ]
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "mailto:?subject=https://www.peps.lk/mohamed-faleel-marjan/",
+                                                "target": "_blank",
+                                                "title": "Share Link"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "d-inline-block"
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "sidebar-social",
+                                          "text-right",
+                                          "float-social",
+                                          "my-3",
+                                          "text-center",
+                                          "pl-0"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "modal-body"
+                                    ]
+                                  }
+                                },
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "text": "Close"
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "type": "button",
+                                        "class": [
+                                          "btn",
+                                          "btn-secondary"
+                                        ],
+                                        "data-dismiss": "modal"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "modal-footer"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "modal-content"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "modal-dialog",
+                              "modal-dialog-centered"
+                            ],
+                            "role": "document"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "modal",
+                          "fade"
+                        ],
+                        "id": "shareProfile",
+                        "tabindex": "-1",
+                        "role": "dialog",
+                        "aria-labelledby": "shareProfileLabel",
+                        "aria-hidden": "true"
+                      }
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "dl",
+                          "children": [
+                            {
+                              "tag": "dd",
+                              "children": [
+                                {
+                                  "tag": "ul",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "social-media"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "col-12",
+                                  "col-lg-9",
+                                  "mb-3"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "row"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "my-3"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-6"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "py-5"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [],
+        "style": "box-shadow: 2px 2px 6px #33333326;"
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Basic Information "
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseOne",
+                                        "aria-expanded": "true",
+                                        "aria-controls": "collapseOne"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header",
+                                  "px-0",
+                                  "px-md-3"
+                                ],
+                                "id": "headingOne"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "dl",
+                                      "children": [
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Date of Birth:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "10-06-1962"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "District:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "National List"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "row"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-3",
+                                      "px-md-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseOne",
+                                "class": [
+                                  "collapse",
+                                  "show"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        },
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Connections "
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "()"
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "class": [
+                                                  "badge",
+                                                  "badge-secondary",
+                                                  "ml-2"
+                                                ]
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseThree",
+                                        "aria-expanded": "false",
+                                        "aria-controls": "collapseThree"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header",
+                                  "px-0",
+                                  "px-md-3"
+                                ],
+                                "id": "headingThree"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "children": [],
+                                          "attrs": {
+                                            "class": [
+                                              "col-md-6"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "children": [],
+                                          "attrs": {
+                                            "class": [
+                                              "col-md-6"
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "row"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-3",
+                                      "px-md-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseThree",
+                                "class": [
+                                  "collapse"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "my-5"
+            ]
+          }
+        },
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Convictions"
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseFour",
+                                        "aria-expanded": "false",
+                                        "aria-controls": "collapseFour"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header",
+                                  "px-0",
+                                  "px-md-3"
+                                ],
+                                "id": "headingFour"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-3",
+                                      "px-md-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseFour",
+                                "class": [
+                                  "collapse"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "my-5"
+            ]
+          }
+        },
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Pending Cases"
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseSix",
+                                        "aria-expanded": "false",
+                                        "aria-controls": "collapseSix"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header",
+                                  "px-0",
+                                  "px-md-3"
+                                ],
+                                "id": "headingSix"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-3",
+                                      "px-md-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseSix",
+                                "class": [
+                                  "collapse"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "my-5"
+            ]
+          }
+        },
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Sources"
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseSeven",
+                                        "aria-expanded": "false",
+                                        "aria-controls": "collapseSeven"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header",
+                                  "px-0",
+                                  "px-md-3"
+                                ],
+                                "id": "headingSeven"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "ul",
+                                      "children": [
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "text": "Parliament of Sri Lanka website"
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "https://www.parliament.lk/members-of-parliament/directory-of-members/viewMember/3437/?lang=en",
+                                                "target": "_blank"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "children": [
+                                            {
+                                              "tag": "a",
+                                              "children": [
+                                                {
+                                                  "text": "Extraordinary Gazette - 8th August 2020"
+                                                }
+                                              ],
+                                              "attrs": {
+                                                "href": "https://www.parliament.lk/uploads/documents/gazettes/20200808-2187-26-en.pdf",
+                                                "target": "_blank"
+                                              }
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "pl-4"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-3",
+                                      "px-md-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseSeven",
+                                "class": [
+                                  "collapse"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "my-5"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "bg-light-gray",
+          "py-5"
+        ]
+      }
+    },
+    {
+      "tag": "footer",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "h3",
+                          "children": [
+                            {
+                              "text": "Public Register of PEPs of Sri Lanka"
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "p",
+                          "children": [
+                            {
+                              "text": "The Online Register of Politically Exposed Persons (PEPs) contains profiles of Sri Lankan individuals who fall within the PEP definition provided in the Financial Action Task Force (FATF) Guidance."
+                            }
+                          ],
+                          "attrs": {}
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "site_detils"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-6",
+                      "col-md-6"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h6",
+                      "children": [
+                        {
+                          "text": "Social Media"
+                        }
+                      ],
+                      "attrs": {}
+                    },
+                    {
+                      "tag": "ul",
+                      "children": [
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-facebook-f"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://www.facebook.com/tisrilanka",
+                                "target": "_blank",
+                                "title": "facebook"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-twitter"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://twitter.com/tisrilanka/",
+                                "target": "_blank",
+                                "title": "Twitter"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-instagram"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://www.instagram.com/transparency_sri_lanka/",
+                                "target": "_blank",
+                                "title": "Instagram"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "social-media"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-3",
+                      "col-md-6",
+                      "pl-3",
+                      "pl-md-5"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "children": [
+                        {
+                          "tag": "img",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "img-fluid",
+                              "mb-4"
+                            ],
+                            "src": "https://www.peps.lk/wp-content/uploads/2019/11/ti_logo_footer.png",
+                            "alt": ""
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "href": "https://www.tisrilanka.org/",
+                        "target": "_blank"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-3",
+                      "col-md-6"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "ul",
+                  "children": [
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "About"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/about/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-747",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-747"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "FAQ"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/faq/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-744",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-744"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contribute"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/contribute/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-746",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-746"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "See All PEPs"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/explore/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-745",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-745"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {}
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "footer_menu"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "footer_area"
+        ]
+      }
+    }
+  ],
+  "attrs": {
+    "class": [
+      "post-template-default",
+      "single",
+      "single-post",
+      "postid-11518",
+      "single-format-standard"
+    ]
+  }
+}
