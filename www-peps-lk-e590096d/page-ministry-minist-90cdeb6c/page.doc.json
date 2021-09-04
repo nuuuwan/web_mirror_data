@@ -1,0 +1,2151 @@
+{
+  "tag": "body",
+  "children": [
+    {
+      "tag": "nav",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "a",
+              "children": [
+                {
+                  "tag": "img",
+                  "children": [],
+                  "attrs": {
+                    "class": [
+                      "img-fluid"
+                    ],
+                    "src": "https://www.peps.lk/wp-content/themes/pepold/img/pep-logo.png",
+                    "alt": "PEP logo"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "navbar-brand",
+                  "py-0"
+                ],
+                "href": "https://www.peps.lk"
+              }
+            },
+            {
+              "tag": "button",
+              "children": [
+                {
+                  "tag": "span",
+                  "children": [],
+                  "attrs": {
+                    "class": [
+                      "navbar-toggler-icon"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "navbar-toggler",
+                  "ml-auto"
+                ],
+                "type": "button",
+                "data-toggle": "collapse",
+                "data-target": "#navbarSupportedContent",
+                "aria-controls": "navbarSupportedContent",
+                "aria-expanded": "false",
+                "aria-label": "Toggle navigation"
+              }
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "ul",
+                  "children": [
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Home "
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "\n              Explore\n            "
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link",
+                              "dropdown-toggle"
+                            ],
+                            "href": "https://www.peps.lk/explore",
+                            "id": "navbarDropdown",
+                            "role": "button",
+                            "data-toggle": "dropdown",
+                            "aria-haspopup": "true",
+                            "aria-expanded": "false"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Heads of State"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/heads-of-state/"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Politicians"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-politicians"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Government Officials"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-government-officials"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Judicial Officers"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-judicial-officers"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Military Officers"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-military-officers"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Senior Executives of SOEs"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/pep_type/senior-executives-of-state-owned-enterprises"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "State Owned Enterprises"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/soe"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "Ministries"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/ministries/"
+                              }
+                            },
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "text": "All Peps"
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "dropdown-item"
+                                ],
+                                "href": "https://www.peps.lk/explore"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "dropdown-menu"
+                            ],
+                            "aria-labelledby": "navbarDropdown"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item",
+                          "dropdown"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "FAQs"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/faq"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contribute"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/contribute"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contact"
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "nav-link"
+                            ],
+                            "href": "https://www.peps.lk/contact"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "nav-item"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "a",
+                      "children": [
+                        {
+                          "tag": "i",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "fas",
+                              "fa-search",
+                              "text-dark",
+                              "mt-3",
+                              "ml-2",
+                              "pt-1"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "data-toggle": "collapse",
+                        "href": "#collapseSearch",
+                        "role": "button",
+                        "aria-expanded": "false",
+                        "aria-controls": "collapseSearch"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "navbar-nav",
+                      "ml-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "collapse",
+                  "navbar-collapse"
+                ],
+                "id": "navbarSupportedContent"
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "navbar",
+          "navbar-expand-lg",
+          "navbar-light",
+          "bg-white",
+          "main-header",
+          "py-2",
+          "py-lg-0"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "form",
+                      "children": [
+                        {
+                          "tag": "input",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "form-control"
+                            ],
+                            "id": "s",
+                            "name": "s",
+                            "type": "search",
+                            "required": "required",
+                            "placeholder": "Type here to search...",
+                            "value": "",
+                            "aria-label": "Search"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "method": "get",
+                        "id": "seach-bar",
+                        "action": "https://www.peps.lk/"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-7"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "button",
+                      "children": [
+                        {
+                          "text": "Search"
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "btn",
+                          "btn-primary",
+                          "btn-block",
+                          "my-2",
+                          "my-sm-0"
+                        ],
+                        "type": "submit"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-3"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "button",
+                      "children": [
+                        {
+                          "tag": "i",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "fas",
+                              "fa-times"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "type": "button",
+                        "class": [
+                          "btn",
+                          "btn-close",
+                          "btn-secondary"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-2",
+                      "text-center"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row",
+                  "py-5"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "collapse",
+          "bg-light"
+        ],
+        "id": "collapseSearch"
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h1",
+                      "children": [
+                        {
+                          "text": "Ministry of Environment"
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "h5",
+                          "bold",
+                          "mt-4",
+                          "mb-2"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "span",
+                      "children": [],
+                      "attrs": {
+                        "class": [
+                          "d-block",
+                          "medium",
+                          "mb-3",
+                          "pep-links"
+                        ],
+                        "href": "#"
+                      }
+                    },
+                    {
+                      "tag": "h6",
+                      "children": [],
+                      "attrs": {
+                        "class": [
+                          "medium",
+                          "mb-3"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-12",
+                      "text-center"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "dl",
+                          "children": [
+                            {
+                              "tag": "dd",
+                              "children": [
+                                {
+                                  "tag": "ul",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "social-media"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "col-12",
+                                  "col-lg-9",
+                                  "mb-3"
+                                ]
+                              }
+                            },
+                            {
+                              "tag": "dt",
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "children": [
+                                    {
+                                      "text": "Website"
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "medium",
+                                      "text-gloomy-blue"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "col-12",
+                                  "col-lg-3"
+                                ]
+                              }
+                            },
+                            {
+                              "tag": "dd",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "pep-links"
+                                    ],
+                                    "href": "http://mmde.gov.lk/web/"
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "col-12",
+                                  "col-lg-9",
+                                  "mb-3"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "row"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "my-3"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-12"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container",
+              "py-5"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [],
+        "style": "box-shadow: 2px 2px 6px #33333326;"
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "children": [
+                                        {
+                                          "tag": "strong",
+                                          "children": [
+                                            {
+                                              "text": "Basic Information "
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "btn",
+                                          "btn-link",
+                                          "btn-block",
+                                          "text-left"
+                                        ],
+                                        "type": "button",
+                                        "data-toggle": "collapse",
+                                        "data-target": "#collapseOne",
+                                        "aria-expanded": "true",
+                                        "aria-controls": "collapseOne"
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "mb-0"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-header"
+                                ],
+                                "id": "headingOne"
+                              }
+                            },
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "dl",
+                                      "children": [
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Name of Cabinet Minister:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "tag": "a",
+                                                  "children": [
+                                                    {
+                                                      "text": "Mahinda Amaraweera "
+                                                    }
+                                                  ],
+                                                  "attrs": {
+                                                    "href": "https://www.peps.lk/mahinda-amaraweera/"
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Timeline:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "9th Parliament of Sri Lanka "
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Source:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "tag": "a",
+                                                  "children": [
+                                                    {
+                                                      "text": "Source for Minister - News Website"
+                                                    }
+                                                  ],
+                                                  "attrs": {
+                                                    "href": "http://www.adaderana.lk/news/66385/new-cabinet-and-state-ministers-take-oaths?s=08"
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Ministry Website:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "tag": "a",
+                                                  "children": [
+                                                    {
+                                                      "text": "Ministry of Environment- Website "
+                                                    }
+                                                  ],
+                                                  "attrs": {
+                                                    "href": "http://mmde.gov.lk/web/"
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dt",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "text": "Parent SOE:"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-4",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "tag": "dd",
+                                          "children": [
+                                            {
+                                              "tag": "span",
+                                              "children": [
+                                                {
+                                                  "tag": "a",
+                                                  "children": [
+                                                    {
+                                                      "text": "Geological Survey and Mines Bureau"
+                                                    }
+                                                  ],
+                                                  "attrs": {
+                                                    "href": "geological-survey-and-mines-bureau"
+                                                  }
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "class": [
+                                              "col-12",
+                                              "col-lg-8",
+                                              "mb-3"
+                                            ]
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "row"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "card-body",
+                                      "px-5"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "id": "collapseOne",
+                                "class": [
+                                  "collapse",
+                                  "show"
+                                ],
+                                "aria-labelledby": "headingOne",
+                                "data-parent": "#accordionExample"
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card"
+                            ]
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "accordion"
+                        ],
+                        "id": "accordionExample"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-12",
+                      "col-md-9",
+                      "mx-auto"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "bg-light-gray",
+          "py-5"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "children": [
+                                {
+                                  "tag": "button",
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "children": [
+                                        {
+                                          "text": "Duties and Functions of Ministry "
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "btn",
+                                      "btn-link",
+                                      "btn-block",
+                                      "text-left"
+                                    ],
+                                    "type": "button",
+                                    "data-toggle": "collapse",
+                                    "data-target": "#collapseThree",
+                                    "aria-expanded": "true",
+                                    "aria-controls": "collapseThree"
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "mb-0"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card-header"
+                            ],
+                            "id": "headingThree"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "p",
+                                          "children": [
+                                            {
+                                              "text": "Use of natural resources while safeguarding Sri Lanka\u2019s bio diversity and natural beauty for sustainable development, as well as protection of flora, beaches, marshy lands, streams and rivers and wildlife, prevention of waste accumulation, disposal of waste, a clean residential environment and matters related to environmental policies and institutions to ensure sustainable economic development."
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        },
+                                        {
+                                          "tag": "ol",
+                                          "children": [
+                                            {
+                                              "tag": "li",
+                                              "children": [
+                                                {
+                                                  "text": "Providing the policy guidance and formulating policies in relation to the subject of Environment, in conformity with the prescribed Laws, Acts and Ordinances, implementation of projects under the national budget, state Investment and National Development Programme, formulating, implementing, monitoring and evaluating policies, programmes and projects, related to subjects and functions under below-mentioned State Corporations and Statutory Institutions for the creation of a \u201cSustainable Environment\u201d based on the national policies implemented by the government, and in accordance with the policy statement \u201cVistas of Prosperity and Splendour\u201d."
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            },
+                                            {
+                                              "tag": "li",
+                                              "children": [
+                                                {
+                                                  "text": "Taking steps to create a positive attitude on sustainable environment concept in the community commencing from school education"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            },
+                                            {
+                                              "tag": "li",
+                                              "children": [
+                                                {
+                                                  "text": "Reviewing the process for issuance of environmental permits and simplify it as an environmental friendly and people friendly process"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            },
+                                            {
+                                              "tag": "li",
+                                              "children": [
+                                                {
+                                                  "text": "Balance sustainable development targets with business and development requirements during the operation of environmental friendly production, distribution, transport services, infrastructure development, urban development and investment and economic zone activities"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            },
+                                            {
+                                              "tag": "li",
+                                              "children": [
+                                                {
+                                                  "text": "Introducing latest advanced technological methods for environmental conservation"
+                                                }
+                                              ],
+                                              "attrs": {}
+                                            }
+                                          ],
+                                          "attrs": {}
+                                        }
+                                      ],
+                                      "attrs": {
+                                        "class": [
+                                          "col-md-12"
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "row"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-body"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "id": "collapseThree",
+                            "class": [
+                              "collapse",
+                              "show"
+                            ],
+                            "aria-labelledby": "headingOne",
+                            "data-parent": "#accordionExample"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "card"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "accordion"
+                    ],
+                    "id": "accordionExample"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "col-12",
+                  "col-md-9",
+                  "mx-auto"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "row"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "container",
+          "my-5"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "children": [
+                                {
+                                  "tag": "button",
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "children": [
+                                        {
+                                          "text": "Related SOE"
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "btn",
+                                      "btn-link",
+                                      "btn-block",
+                                      "text-left"
+                                    ],
+                                    "type": "button",
+                                    "data-toggle": "collapse",
+                                    "data-target": "#collapseFour",
+                                    "aria-expanded": "true",
+                                    "aria-controls": "collapseFour"
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "mb-0"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card-header"
+                            ],
+                            "id": "headingFour"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "dt",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "children": [
+                                            {
+                                              "text": "Geological Survey and Mines Bureau"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "href": "https://www.peps.lk/entities/geological-survey-and-mines-bureau"
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "col-12",
+                                      "col-lg-12",
+                                      "mb-3"
+                                    ]
+                                  }
+                                },
+                                {
+                                  "tag": "dt",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "children": [
+                                            {
+                                              "text": "GSMB Technical Services (Pvt) Ltd"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "href": "https://www.peps.lk/entities/gsmb-technical-services-pvt-ltd"
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "col-12",
+                                      "col-lg-12",
+                                      "mb-3"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-body"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "id": "collapseFour",
+                            "class": [
+                              "collapse",
+                              "show"
+                            ],
+                            "aria-labelledby": "headingOne",
+                            "data-parent": "#accordionExample"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "card"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "accordion"
+                    ],
+                    "id": "accordionExample"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "col-12",
+                  "col-md-9",
+                  "mx-auto"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "row"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "container",
+          "my-5"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "children": [
+                                {
+                                  "tag": "button",
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "children": [
+                                        {
+                                          "text": "Senior Government Officials"
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "btn",
+                                      "btn-link",
+                                      "btn-block",
+                                      "text-left"
+                                    ],
+                                    "type": "button",
+                                    "data-toggle": "collapse",
+                                    "data-target": "#collapseFour",
+                                    "aria-expanded": "true",
+                                    "aria-controls": "collapseFour"
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "mb-0"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card-header"
+                            ],
+                            "id": "headingFour"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "dt",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "children": [
+                                            {
+                                              "text": "Dr. Anil Jasingha"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "href": "https://www.peps.lk/dr-anil-jasinghe/"
+                                          }
+                                        },
+                                        {
+                                          "text": "(Secretary to the Ministry of Environment )"
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "col-12",
+                                      "col-lg-12",
+                                      "mb-3"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-body"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "id": "collapseFour",
+                            "class": [
+                              "collapse",
+                              "show"
+                            ],
+                            "aria-labelledby": "headingOne",
+                            "data-parent": "#accordionExample"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "card"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "accordion"
+                    ],
+                    "id": "accordionExample"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "col-12",
+                  "col-md-9",
+                  "mx-auto"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "row"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "container",
+          "my-5"
+        ]
+      }
+    },
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "h2",
+                              "children": [
+                                {
+                                  "tag": "button",
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "children": [
+                                        {
+                                          "text": "Sources"
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "btn",
+                                      "btn-link",
+                                      "btn-block",
+                                      "text-left"
+                                    ],
+                                    "type": "button",
+                                    "data-toggle": "collapse",
+                                    "data-target": "#collapseSeven",
+                                    "aria-expanded": "true",
+                                    "aria-controls": "collapseSeven"
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "mb-0"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "class": [
+                              "card-header"
+                            ],
+                            "id": "headingSeven"
+                          }
+                        },
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "ul",
+                                  "children": [
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "children": [
+                                            {
+                                              "text": "Source for Secretary - Gazette"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "href": "https://www.presidentsoffice.gov.lk/wp-content/uploads/2020/08/2188-45_E.pdf",
+                                            "target": "_blank"
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    },
+                                    {
+                                      "tag": "li",
+                                      "children": [
+                                        {
+                                          "tag": "a",
+                                          "children": [
+                                            {
+                                              "text": "Source for Duties and Functions - Gazette 25th September 2020"
+                                            }
+                                          ],
+                                          "attrs": {
+                                            "href": "http://www.cabinetoffice.gov.lk/cab/images/Downloads/functions_2020-09-25_E.pdf",
+                                            "target": "_blank"
+                                          }
+                                        }
+                                      ],
+                                      "attrs": {}
+                                    }
+                                  ],
+                                  "attrs": {
+                                    "class": [
+                                      "pl-4"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "class": [
+                                  "card-body"
+                                ]
+                              }
+                            }
+                          ],
+                          "attrs": {
+                            "id": "collapseSeven",
+                            "class": [
+                              "collapse",
+                              "show"
+                            ],
+                            "aria-labelledby": "headingOne",
+                            "data-parent": "#accordionExample"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "card"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "accordion"
+                    ],
+                    "id": "accordionExample"
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "col-12",
+                  "col-md-9",
+                  "mx-auto"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "row"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "container",
+          "my-5"
+        ]
+      }
+    },
+    {
+      "tag": "footer",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "h3",
+                          "children": [
+                            {
+                              "text": "Public Register of PEPs of Sri Lanka"
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "p",
+                          "children": [
+                            {
+                              "text": "The Online Register of Politically Exposed Persons (PEPs) contains profiles of Sri Lankan individuals who fall within the PEP definition provided in the Financial Action Task Force (FATF) Guidance."
+                            }
+                          ],
+                          "attrs": {}
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "site_detils"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-6",
+                      "col-md-6"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h6",
+                      "children": [
+                        {
+                          "text": "Social Media"
+                        }
+                      ],
+                      "attrs": {}
+                    },
+                    {
+                      "tag": "ul",
+                      "children": [
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-facebook-f"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://www.facebook.com/tisrilanka",
+                                "target": "_blank",
+                                "title": "facebook"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-twitter"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://twitter.com/tisrilanka/",
+                                "target": "_blank",
+                                "title": "Twitter"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        },
+                        {
+                          "tag": "li",
+                          "children": [
+                            {
+                              "tag": "a",
+                              "children": [
+                                {
+                                  "tag": "i",
+                                  "children": [],
+                                  "attrs": {
+                                    "class": [
+                                      "fab",
+                                      "fa-instagram"
+                                    ]
+                                  }
+                                }
+                              ],
+                              "attrs": {
+                                "href": "https://www.instagram.com/transparency_sri_lanka/",
+                                "target": "_blank",
+                                "title": "Instagram"
+                              }
+                            }
+                          ],
+                          "attrs": {}
+                        }
+                      ],
+                      "attrs": {
+                        "class": [
+                          "social-media"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-3",
+                      "col-md-6",
+                      "pl-3",
+                      "pl-md-5"
+                    ]
+                  }
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "children": [
+                        {
+                          "tag": "img",
+                          "children": [],
+                          "attrs": {
+                            "class": [
+                              "img-fluid",
+                              "mb-4"
+                            ],
+                            "src": "https://www.peps.lk/wp-content/uploads/2019/11/ti_logo_footer.png",
+                            "alt": ""
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "href": "https://www.tisrilanka.org/",
+                        "target": "_blank"
+                      }
+                    }
+                  ],
+                  "attrs": {
+                    "class": [
+                      "col-lg-3",
+                      "col-md-6"
+                    ]
+                  }
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "row"
+                ]
+              }
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "ul",
+                  "children": [
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "About"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/about/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-747",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-747"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "FAQ"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/faq/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-744",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-744"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "Contribute"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/contribute/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-746",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-746"
+                        ]
+                      }
+                    },
+                    {
+                      "tag": "li",
+                      "children": [
+                        {
+                          "tag": "a",
+                          "children": [
+                            {
+                              "text": "See All PEPs"
+                            }
+                          ],
+                          "attrs": {
+                            "href": "https://www.peps.lk/explore/"
+                          }
+                        }
+                      ],
+                      "attrs": {
+                        "id": "menu-item-745",
+                        "class": [
+                          "menu-item",
+                          "menu-item-type-post_type",
+                          "menu-item-object-page",
+                          "menu-item-745"
+                        ]
+                      }
+                    }
+                  ],
+                  "attrs": {}
+                }
+              ],
+              "attrs": {
+                "class": [
+                  "footer_menu"
+                ]
+              }
+            }
+          ],
+          "attrs": {
+            "class": [
+              "container"
+            ]
+          }
+        }
+      ],
+      "attrs": {
+        "class": [
+          "footer_area"
+        ]
+      }
+    }
+  ],
+  "attrs": {
+    "class": [
+      "ministry-template-default",
+      "single",
+      "single-ministry",
+      "postid-13961"
+    ]
+  }
+}
